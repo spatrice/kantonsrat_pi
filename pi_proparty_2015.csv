@@ -1,5 +1,5 @@
 g_partei,g_art,g_nr
-FDP, Postulat,31
+FDP, Postulat,32
 GLP, Postulat,31
 SP, Postulat,31
 Grüne, Postulat,15
@@ -10,7 +10,7 @@ BDP, Postulat,3
 AL, Postulat,2
 SVP, Parlamentarische Initiative,33
 FDP, Parlamentarische Initiative,17
-SP, Parlamentarische Initiative,15
+SP, Parlamentarische Initiative,16
 Grüne, Parlamentarische Initiative,9
 GLP, Parlamentarische Initiative,6
 EDU, Parlamentarische Initiative,5
@@ -39,15 +39,15 @@ BDP, Interpellation,1
 EVP, Interpellation,1
 Zürich, Geschäftsbericht,4
 SP, Einzelinitiative,1
+SVP, Dringliches Postulat,9
 SP, Dringliches Postulat,7
-SVP, Dringliches Postulat,6
 FDP, Dringliches Postulat,5
 GLP, Dringliches Postulat,3
 Grüne, Dringliches Postulat,2
 AL, Dringliches Postulat,1
 CVP, Dringliches Postulat,1
 EDU, Dringliches Postulat,1
-SVP, Dringliche Anfrage,15
+SVP, Dringliche Anfrage,16
 SP, Dringliche Anfrage,12
 FDP, Dringliche Anfrage,7
 GLP, Dringliche Anfrage,5
@@ -56,14 +56,14 @@ EDU, Dringliche Anfrage,2
 AL, Dringliche Anfrage,1
 BDP, Dringliche Anfrage,1
 CVP, Dringliche Anfrage,1
-SVP, Anfrage,235
-SP, Anfrage,131
-FDP, Anfrage,130
-Grüne, Anfrage,87
+SVP, Anfrage,237
+SP, Anfrage,133
+FDP, Anfrage,132
+Grüne, Anfrage,88
 GLP, Anfrage,50
 EDU, Anfrage,48
-EVP, Anfrage,41
-AL, Anfrage,40
+EVP, Anfrage,42
+AL, Anfrage,41
 CVP, Anfrage,31
 BDP, Anfrage,14
 CSP, Anfrage,3
